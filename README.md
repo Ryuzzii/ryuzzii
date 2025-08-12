@@ -1,6 +1,6 @@
- 👋 Hi there, I'm 
+# 👋 Hi there, I'm Ryuzzii
 
-
+> Tete
 
 ## 🚀 About Me
 
@@ -17,17 +17,22 @@
 
 ## 📊 GitHub Stats
 
-![username's GitHub stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=238636&icon_color=238636)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ryuzzii&theme=dark&hide_border=true&area=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=238636)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ryuzzii&theme=dark&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=username&theme=dark&hide_border=true&background=0d1117&stroke=238636&ring=238636&fire=238636&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ryuzzii&show_icons=true&theme=dark&hide_border=true)
 
 
+## 🎵 Spotify
+
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=Eikkoo&count=1)](https://open.spotify.com/user/Eikkoo)
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/user?uid=Eikkoo&theme=dark&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/user?uid=Eikkoo&redirect=true)
 
 ## 🔗 Connect with Me
 
-[🐙 GitHub](https://github.com/username)
+[🐙 GitHub](https://github.com/Ryuzzii)
 
 ## 📈 Status
 
