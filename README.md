@@ -5,7 +5,7 @@
 </div>
 
 ## 🎵 Currently Vibing To
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify-playing)](https://open.spotify.com/user/31kv26zoyzaroeqyeqyxwc4cla3i)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31kv26zoyzaroeqyeqyxwc4cla3i&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31kv26zoyzaroeqyeqyxwc4cla3i&redirect=true)
 
 > *Music fuels my code* 🎧
 
