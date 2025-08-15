@@ -1,11 +1,11 @@
 # Hey there! 👋 I'm Ryuzzii
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Discord+Bot+Developer;Lavalink+Enthusiast;Music+%26+Audio+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&multiline=true&width=600&height=200&lines=Discord+Bot+Developer;Lavalink+Enthusiast;Music+%26+Lover" alt="Typing SVG" />
 </div>
 
 ## 🎵 Currently Vibing To
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify-playing)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify-playing)](https://open.spotify.com/user/31kv26zoyzaroeqyeqyxwc4cla3i)
 
 > *Music fuels my code* 🎧
 
@@ -16,8 +16,8 @@ const ryuzzii = {
     specialties: ["Discord Bots", "Lavalink", "Music Systems"],
     currentFocus: "Building next-gen music bots",
     languages: ["JavaScript", "TypeScript", "Python"],
-    frameworks: ["Discord.js", "Eris", "Disnake"],
-    databases: ["MongoDB", "PostgreSQL", "Redis"],
+    frameworks: ["Discord.js", "Eris"],
+    databases: ["MongoDB"],
     tools: ["Docker", "PM2", "Nginx"]
 };
 ```
