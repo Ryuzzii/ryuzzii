@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Ryuzzii
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&multiline=true&width=600&height=150&lines=Discord+Bot+Developer;Lavalink+Enthusiast;Music+%26+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&multiline=true&width=600&height=150&lines=Discord+Bot+Developer;Lavalink+Enthusiast;Music Lover+%26+Gamer" alt="Typing SVG" />
 </div>
 
 ## 🎵 Currently Vibing To
